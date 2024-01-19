@@ -1,0 +1,29 @@
+.data{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 12px;
+    
+}
+img {
+    width:500px;
+}
+h2{
+    border-bottom-style:solid;
+    border-bottom-width: 3px;
+    font-style:initial;
+    font-size: 16px;    
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+ width:100%;
+ 
+}
+
+table,th,td {
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 6px;
+            font-size:12px;
+		}
